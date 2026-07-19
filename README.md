@@ -79,16 +79,14 @@ aarch64
 
 ## 1. Clone this repository
 
-Replace `YOUR_REPOSITORY_URL` with the actual GitHub repository URL.
-
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/nayaka98/Raknet-native-termux.git
 ```
 
 Enter the repository folder:
 
 ```bash
-cd YOUR_REPOSITORY_FOLDER
+cd Raknet-native-termux
 ```
 
 ---
